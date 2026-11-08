@@ -1,0 +1,10 @@
+Sample data, illustrative, not Riverty research. All people, numbers and events are fictional.
+ticket_id,type,summary
+T-101,bug,In-store payment declined with no reason shown in the app. 48 in-store declines in the test log.
+T-102,bug,Adding the card to the phone wallet fails or is abandoned after activation. 143 activated cards never reached the wallet.
+T-103,ticket,Card balance and regular pay later orders shown on two different screens. Participants ask which total is the real one.
+T-104,ticket,Statement date and pay later due dates differ. Two reminders arrive in the same week for different amounts.
+T-105,bug,Instalment option appears after the purchase only for some categories. Participants think it is random.
+T-106,ticket,Identity check asks for a document photo again after a failed upload. Some applicants give up at this step.
+T-107,ticket,Participants ask whether using the card affects their credit score. No help article exists yet.
+T-108,bug,"Push notification for a purchase arrives minutes late in some shops, so participants think the payment failed and pay again with another card."

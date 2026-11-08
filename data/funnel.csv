@@ -1,0 +1,9 @@
+Sample data, illustrative, not Riverty research. All people, numbers and events are fictional.
+step,people,pct_of_previous_step,pct_of_invited
+invited,1200,100.0,100.0
+applied,716,59.7,59.7
+identity_check_completed,628,87.7,52.3
+approved,586,93.3,48.8
+card_activated,431,73.5,35.9
+first_purchase_in_activation_month,350,81.2,29.2
+three_plus_purchases_in_activation_month,253,72.3,21.1

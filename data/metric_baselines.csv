@@ -1,0 +1,9 @@
+Sample data, illustrative, not Riverty research. All people, numbers and events are fictional.
+metric,baseline_pct,measured_over,base_count
+approved to activated,73.5,approved people,586
+activated to added to phone wallet,66.8,activated cards,431
+activated to first purchase in activation month,81.2,activated cards,431
+"in-store share of purchases, Month 4",17.0,purchases in Month 4,1107
+"in-store decline rate, Month 4",8.7,in-store attempts in Month 4,206
+"partner merchant share of volume, Month 4",63.1,card volume in Month 4,
+"instalments share of purchases, Month 4",17.4,purchases in Month 4,1107

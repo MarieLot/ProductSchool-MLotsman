@@ -1,0 +1,6 @@
+Sample data, illustrative, not Riverty research. All people, numbers and events are fictional.
+pilot_month,active_cards,purchases,volume_eur,avg_spend_per_active_card_eur,in_store_share_of_purchases_pct,partner_merchant_share_of_volume_pct,instalments_share_of_purchases_pct,decline_rate_pct,in_store_decline_rate_pct
+Month 1,76,290,15206.91,200.09,17.6,56.8,15.2,2.7,12.1
+Month 2,174,723,38284.38,220.03,15.4,63.0,16.5,2.2,7.5
+Month 3,278,1162,58837.34,211.65,17.7,58.8,18.1,2.6,6.4
+Month 4,262,1107,61085.73,233.15,17.0,63.1,17.4,3.5,8.7
